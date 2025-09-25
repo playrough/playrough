@@ -1,4 +1,4 @@
-# 👋 Hello, I’m Quang Minh (playrough)
+# 👋 Hello, I’m Quang Minh
 
 - 🔭 I’m currently working on small personal projects to improve my skills  
 - 🌱 I’m learning web development (JavaScript, HTML, CSS) and backend basics  
